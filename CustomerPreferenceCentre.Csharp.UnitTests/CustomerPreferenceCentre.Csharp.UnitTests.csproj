@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CustomerPreferenceCenter.Csharp\CustomerPreferenceCentre.Csharp.csproj" />
+    <ProjectReference Include="..\CustomerPreferenceCentre.Csharp\CustomerPreferenceCentre.Csharp.csproj" />
   </ItemGroup>
 
 </Project>
